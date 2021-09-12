@@ -8,7 +8,7 @@ def while_func(n):
         while j<=n-i:
             print(" ",end="")
             j=j+1
-        #stars
+        
         k=i
         while k<=2*i-1:
             print(k,end="")
